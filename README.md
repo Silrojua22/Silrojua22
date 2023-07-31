@@ -1,17 +1,8 @@
 # Hola, mi nombre es Silvio juarez 👋
-### Freelance full-stack iOS & Android engineer
+### FullStack Developer
 
-
-
-
-Soy ingeniero de software profesional desde hace más de doce años.
-
-"¡Hola!
-
+<h2>:man_technologist: ACERCA DE MÍ</h2>
 Soy un apasionado desarrollador Full Stack con enfoque en el back-end. Mi dominio incluye tecnologías como Node.js, Express, SQL y Postgres. Busco soluciones personalizadas y escalables para mejorar la experiencia del usuario. Tengo experiencia en liderazgo y trabajo en equipo. Si buscas calidad, innovación y aprendizaje continuo, ¡contáctame!
-
-E-mail: silviojuarez60@gmail.com
-GitHub: https://github.com/Silrojua22"
 
 ## Tecnologías:
 </section>
