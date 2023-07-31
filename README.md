@@ -46,13 +46,13 @@ GitHub: https://github.com/Silrojua22"
 
 <h2 align="right">:mailbox_with_mail: CONTACTO</h2>
 <section align="center">
-<a href="https://linkedin.com/in/gaston-dvoskin" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  gaston--dvoskin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
+<a href="https://linkedin.com/in/silvio-juarez" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  silvio--juarez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
 </a>
-<a href="mailto:dvoskingaston@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  dvoskingaston@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:silviojuarez60@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  silviojuarez60@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-<p>📲 <a href="tel:+5491156559234">(+54) 9 1156559234</a></p>
+<p>📲 <a href="tel:+5491138944628">(+54) 9 1138944628</a></p>
 </section>
 
 
