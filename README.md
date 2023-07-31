@@ -4,7 +4,7 @@
 <h2>:man_technologist: ACERCA DE MÍ</h2>
 Soy un apasionado desarrollador Full Stack con enfoque en el back-end. Mi dominio incluye tecnologías como Node.js, Express, SQL y Postgres. Busco soluciones personalizadas y escalables para mejorar la experiencia del usuario. Tengo experiencia en liderazgo y trabajo en equipo. Si buscas calidad, innovación y aprendizaje continuo, ¡contáctame!
 
-## Tecnologías:
+## TECNOLOGÍAS Y HERRAMIENTAS:
 </section>
 <section align="center">
 
