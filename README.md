@@ -2,23 +2,24 @@
 ### Freelance full-stack iOS & Android engineer
 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+
 
 Soy ingeniero de software profesional desde hace más de doce años.
 
-En 2014 dejé mi trabajo en una multinacional y creé [**MoureDev**](https://mouredev.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
-Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
+"¡Hola!
 
-En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
+Soy un apasionado desarrollador Full Stack con enfoque en el back-end. Mi dominio incluye tecnologías como Node.js, Express, SQL y Postgres. Busco soluciones personalizadas y escalables para mejorar la experiencia del usuario. Tengo experiencia en liderazgo y trabajo en equipo. Si buscas calidad, innovación y aprendizaje continuo, ¡contáctame!
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
+E-mail: silviojuarez60@gmail.com
+GitHub: https://github.com/Silrojua22"
 
 ## Tecnologías:
+</section>
+
+<h2 align="right">:desktop_computer: TECNOLOGÍAS Y HERRAMIENTAS</h2>
+<section align="center">
+
+<!--JavaScript, NodeJS, React, Express, HTML, CSS, Sequelize, PostgreSQL -->
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
@@ -27,6 +28,33 @@ En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear conten
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize%20-%230096D6.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<!--Git, GitHub, VSC, Vercel, Railway, Auth0, Bootstrap-->   
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel%20-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway%20-%23000000.svg?style=for-the-badge&logo=railway&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0%20-%23EB5424.svg?style=for-the-badge&logo=auth0&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<!--Trello, Slack, Figma-->
+![Trello](https://img.shields.io/badge/Trello%20-%230079BF.svg?style=for-the-badge&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack%20-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+</section>
+
+<h2 align="right">:mailbox_with_mail: CONTACTO</h2>
+<section align="center">
+<a href="https://linkedin.com/in/gaston-dvoskin" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  gaston--dvoskin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
+</a>
+<a href="mailto:dvoskingaston@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  dvoskingaston@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+<p>📲 <a href="tel:+5491156559234">(+54) 9 1156559234</a></p>
+</section>
+
 
 <!--
 **Silrojua22/Silrojua22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
