@@ -15,8 +15,6 @@ GitHub: https://github.com/Silrojua22"
 
 ## Tecnologías:
 </section>
-
-<h2 align="right">:desktop_computer: TECNOLOGÍAS Y HERRAMIENTAS</h2>
 <section align="center">
 
 <!--JavaScript, NodeJS, React, Express, HTML, CSS, Sequelize, PostgreSQL -->
