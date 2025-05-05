@@ -18,6 +18,8 @@ Soy un apasionado desarrollador Full Stack con enfoque en el back-end. Mi domini
 ![Sequelize](https://img.shields.io/badge/Sequelize%20-%230096D6.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker%20-%23336791.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23336791.svg?style=for-the-badge&logo=mongoDb&logoColor=green&labelColor=white&color=white
+)
 
 <!--Git, GitHub, VSC, Vercel, Railway, Auth0, Bootstrap-->   
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
